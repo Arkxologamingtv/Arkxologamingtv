@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head><meta property="fb:pages" content="109695680773983" /></head>
+  <head>
+    <meta property="fb:pages" content="109695680773983" />
+    <title>Arkxologaming</title>
+   </head>
 <body>
   <h1>Hello facebook Article</h1>
   <h2>My top level heading</h2>
